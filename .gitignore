@@ -5,6 +5,7 @@ obj
 appsettings.json
 appsettings.Development.json
 *.db
+.idea
 
 **/.idea/**/workspace.xml
 **/.idea/**/tasks.xml
